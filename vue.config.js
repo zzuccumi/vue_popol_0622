@@ -1,3 +1,5 @@
+const path = require("path");
+
 module.exports = {
   assetsDir: "assets",
   css: {
@@ -14,4 +16,5 @@ module.exports = {
     },
   },
   publicPath: "/vue_popol_0622/",
+  outputDir: path.resolve(__dirname, "./dist"),
 };
