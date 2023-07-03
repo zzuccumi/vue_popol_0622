@@ -13,5 +13,5 @@ module.exports = {
       },
     },
   },
-  publicPath: "/vue_portfolio/",
+  publicPath: "/vue_popol_0622/",
 };
