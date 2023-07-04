@@ -16,5 +16,5 @@ module.exports = {
     },
   },
   publicPath: "/vue_popol_0622/",
-  outputDir: path.resolve(__dirname, "./dist"),
+  outputDir: "docs",
 };
